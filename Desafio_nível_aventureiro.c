@@ -70,8 +70,8 @@ int main() {
         //Operações matemáticas             
     float densidadeP = (float) população / área;
     float densidadeP2 = (float) população2 / área2;
-    float PIBpercapita = (float) PIB / população;
-    float PIBpercapita2 = (float) PIB2 / população2;
+    double PIBpercapita = (double) PIB / população;
+    double PIBpercapita2 = (double) PIB2 / população2;
 
             //Resultado dos dados coletados//
     printf("\n\nCarta 1:\n");

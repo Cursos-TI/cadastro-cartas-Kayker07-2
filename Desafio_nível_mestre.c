@@ -45,7 +45,7 @@ int main() {
     Área: 1200.25 km²
     PIB:300.50/418.462.360 milhões
     */
-    printf("\n\nCarta2\n");
+    printf("\n\nCarta 2\n");
     printf("Digite o estado da carta de 'A' a 'H': \n");
     scanf(" %c", &estado2);
 
